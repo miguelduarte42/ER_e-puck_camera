@@ -1,0 +1,176 @@
+[Header]
+MagicCookie={0b13fe8c-dfe0-40eb-8900-6712719559a7}
+Version=1.0
+[File000]
+Location=C:\Documents and Settings\Duarte\Os meus documentos\My Dropbox\Tese\Trabalho\Desenvolvimento\e-puck Programming\Tutorials\Program 6 - Using the Camera\Release\E-puck Program\camtest.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Programas\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|camtest.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_calc_po3030k.c|e_calc_po6030k.c|e_common.c|e_po3030k_registers.c|e_po6030k_registers.c|e_timers.c|e_interrupt.s||<obj>||<lib>|e_uart_char.a||<lkr>|C:\Programas\Microchip\MPLAB C30\support\dsPIC30F\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File001]
+Location=C:\Documents and Settings\Duarte\Os meus documentos\My Dropbox\Tese\Trabalho\Desenvolvimento\e-puck Programming\Tutorials\Program 6 - Using the Camera\Release\E-puck Program\e_I2C_master_module.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Programas\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|camtest.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_calc_po3030k.c|e_calc_po6030k.c|e_common.c|e_po3030k_registers.c|e_po6030k_registers.c|e_timers.c|e_interrupt.s||<obj>||<lib>|e_uart_char.a||<lkr>|C:\Programas\Microchip\MPLAB C30\support\dsPIC30F\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File002]
+Location=C:\Documents and Settings\Duarte\Os meus documentos\My Dropbox\Tese\Trabalho\Desenvolvimento\e-puck Programming\Tutorials\Program 6 - Using the Camera\Release\E-puck Program\e_I2C_protocol.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Programas\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|camtest.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_calc_po3030k.c|e_calc_po6030k.c|e_common.c|e_po3030k_registers.c|e_po6030k_registers.c|e_timers.c|e_interrupt.s||<obj>||<lib>|e_uart_char.a||<lkr>|C:\Programas\Microchip\MPLAB C30\support\dsPIC30F\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File003]
+Location=C:\Documents and Settings\Duarte\Os meus documentos\My Dropbox\Tese\Trabalho\Desenvolvimento\e-puck Programming\Tutorials\Program 6 - Using the Camera\Release\E-puck Program\e_init_port.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Programas\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|camtest.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_calc_po3030k.c|e_calc_po6030k.c|e_common.c|e_po3030k_registers.c|e_po6030k_registers.c|e_timers.c|e_interrupt.s||<obj>||<lib>|e_uart_char.a||<lkr>|C:\Programas\Microchip\MPLAB C30\support\dsPIC30F\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File004]
+Location=C:\Documents and Settings\Duarte\Os meus documentos\My Dropbox\Tese\Trabalho\Desenvolvimento\e-puck Programming\Tutorials\Program 6 - Using the Camera\Release\E-puck Program\e_calc_po3030k.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Programas\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|camtest.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_calc_po3030k.c|e_calc_po6030k.c|e_common.c|e_po3030k_registers.c|e_po6030k_registers.c|e_timers.c|e_interrupt.s||<obj>||<lib>|e_uart_char.a||<lkr>|C:\Programas\Microchip\MPLAB C30\support\dsPIC30F\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File005]
+Location=C:\Documents and Settings\Duarte\Os meus documentos\My Dropbox\Tese\Trabalho\Desenvolvimento\e-puck Programming\Tutorials\Program 6 - Using the Camera\Release\E-puck Program\e_calc_po6030k.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Programas\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|camtest.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_calc_po3030k.c|e_calc_po6030k.c|e_common.c|e_po3030k_registers.c|e_po6030k_registers.c|e_timers.c|e_interrupt.s||<obj>||<lib>|e_uart_char.a||<lkr>|C:\Programas\Microchip\MPLAB C30\support\dsPIC30F\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File006]
+Location=C:\Documents and Settings\Duarte\Os meus documentos\My Dropbox\Tese\Trabalho\Desenvolvimento\e-puck Programming\Tutorials\Program 6 - Using the Camera\Release\E-puck Program\e_common.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Programas\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|camtest.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_calc_po3030k.c|e_calc_po6030k.c|e_common.c|e_po3030k_registers.c|e_po6030k_registers.c|e_timers.c|e_interrupt.s||<obj>||<lib>|e_uart_char.a||<lkr>|C:\Programas\Microchip\MPLAB C30\support\dsPIC30F\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File007]
+Location=C:\Documents and Settings\Duarte\Os meus documentos\My Dropbox\Tese\Trabalho\Desenvolvimento\e-puck Programming\Tutorials\Program 6 - Using the Camera\Release\E-puck Program\e_po3030k_registers.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Programas\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|camtest.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_calc_po3030k.c|e_calc_po6030k.c|e_common.c|e_po3030k_registers.c|e_po6030k_registers.c|e_timers.c|e_interrupt.s||<obj>||<lib>|e_uart_char.a||<lkr>|C:\Programas\Microchip\MPLAB C30\support\dsPIC30F\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File008]
+Location=C:\Documents and Settings\Duarte\Os meus documentos\My Dropbox\Tese\Trabalho\Desenvolvimento\e-puck Programming\Tutorials\Program 6 - Using the Camera\Release\E-puck Program\e_po6030k_registers.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Programas\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|camtest.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_calc_po3030k.c|e_calc_po6030k.c|e_common.c|e_po3030k_registers.c|e_po6030k_registers.c|e_timers.c|e_interrupt.s||<obj>||<lib>|e_uart_char.a||<lkr>|C:\Programas\Microchip\MPLAB C30\support\dsPIC30F\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File009]
+Location=C:\Documents and Settings\Duarte\Os meus documentos\My Dropbox\Tese\Trabalho\Desenvolvimento\e-puck Programming\Tutorials\Program 6 - Using the Camera\Release\E-puck Program\e_timers.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Programas\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|camtest.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_calc_po3030k.c|e_calc_po6030k.c|e_common.c|e_po3030k_registers.c|e_po6030k_registers.c|e_timers.c|e_interrupt.s||<obj>||<lib>|e_uart_char.a||<lkr>|C:\Programas\Microchip\MPLAB C30\support\dsPIC30F\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File010]
+Location=C:\Documents and Settings\Duarte\Os meus documentos\My Dropbox\Tese\Trabalho\Desenvolvimento\e-puck Programming\Tutorials\Program 6 - Using the Camera\Release\E-puck Program\e_interrupt.o
+Folder=Intermediary
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={DE18EB1A-B46B-486B-B96F-A811A635DFAC}
+LanguageToolLocation=C:\Programas\Microchip\MPLAB C30\bin\pic30-as.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|camtest.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_calc_po3030k.c|e_calc_po6030k.c|e_common.c|e_po3030k_registers.c|e_po6030k_registers.c|e_timers.c|e_interrupt.s||<obj>||<lib>|e_uart_char.a||<lkr>|C:\Programas\Microchip\MPLAB C30\support\dsPIC30F\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=--defsym=__DEBUG=1
+[File011]
+Location=C:\Documents and Settings\Duarte\Os meus documentos\My Dropbox\Tese\Trabalho\Desenvolvimento\e-puck Programming\Tutorials\Program 6 - Using the Camera\Release\E-puck Program\getting_images.cof
+Folder=Output
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={433C3D55-811D-409D-A6BF-159CF9355B42}
+LanguageToolLocation=C:\Programas\Microchip\MPLAB C30\bin\pic30-ld.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|camtest.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_calc_po3030k.c|e_calc_po6030k.c|e_common.c|e_po3030k_registers.c|e_po6030k_registers.c|e_timers.c|e_interrupt.s||<obj>||<lib>|e_uart_char.a||<lkr>|C:\Programas\Microchip\MPLAB C30\support\dsPIC30F\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)" -Map="$(BINDIR_)$(TARGETBASE).map" --report-mem
+TraceCmdString=
+DebugOptions=--defsym=__MPLAB_DEBUG=1
+[File012]
+Location=C:\Documents and Settings\Duarte\Os meus documentos\My Dropbox\Tese\Trabalho\Desenvolvimento\e-puck Programming\Tutorials\Program 6 - Using the Camera\Release\E-puck Program\getting_images.hex
+Folder=Output
+DeviceName=dsPIC30F6014A
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={433C3D55-811D-409D-A6BF-159CF9355B42}
+LanguageToolLocation=C:\Programas\Microchip\MPLAB C30\bin\pic30-ld.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|camtest.c|e_I2C_master_module.c|e_I2C_protocol.c|e_init_port.c|e_calc_po3030k.c|e_calc_po6030k.c|e_common.c|e_po3030k_registers.c|e_po6030k_registers.c|e_timers.c|e_interrupt.s||<obj>||<lib>|e_uart_char.a||<lkr>|C:\Programas\Microchip\MPLAB C30\support\dsPIC30F\gld\p30f6014A.gld||
+SuiteArgsString=
+ToolArgsString=-o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)" -Map="$(BINDIR_)$(TARGETBASE).map" --report-mem
+TraceCmdString=
+DebugOptions=--defsym=__MPLAB_DEBUG=1
+[TOOL_LOC_STAMPS]
+tool_loc{DE18EB1A-B46B-486B-B96F-A811A635DFAC}=C:\Programas\Microchip\MPLAB C30\bin\pic30-as.exe
+tool_loc{069BD372-6CA0-40D4-BF2F-5DC806D05083}=C:\Programas\Microchip\MPLAB C30\bin\pic30-gcc.exe
+tool_loc{433C3D55-811D-409D-A6BF-159CF9355B42}=C:\Programas\Microchip\MPLAB C30\bin\pic30-ld.exe
